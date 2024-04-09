@@ -1,0 +1,63 @@
+tdlist|203
+popStyle()::1f|1
+pushStyle()::1f|2
+redraw()::1f|3
+cursor()::1f|4
+frameRate()::1f|8
+frameRate::1f|9
+height::1f|11
+noCursor()::1f|12
+size()::1f|18
+width::1f|20
+ellipse rendering::0f|41
+createShape()::0f|47
+loadShape()::0f|48
+PShape type::0f|49
+arc()::0f|50
+ellipse()::1f|51
+line()::1f|52
+point()::1f|53
+quad()::0f|54
+rect()::1f|55
+triangle()::0f|56
+ellipseMode()::1f|65
+rectMode()::1f|66
+strokeCap()::1f|67
+strokeJoin()::1f|68
+strokeWeight()::1f|69
+endShape()::0f|75
+vertex()::0f|77
+shape()::0f|78
+shapeMode()::0f|79
+mouse managment::0f|80
+keyboard managment::0f|81
+popMatrix()::1f|92
+pushMatrix()::1f|94
+rotate()::1f|96
+scale()::1f|99
+translate()::1f|102
+background()::1f|103
+colorMode()::1f|105
+fill()::1f|106
+allow fill(int)::1i|107
+noFill()::0f|108
+noStroke()::0f|109
+stroke()::1f|110
+noise()::0f|183
+noiseDetail()::0f|184
+noiseSeed()::0f|185
+random()::0f|186
+randomGaussian()::0f|187
+randomSeed()::0f|188
+beginShape()::0f|191
+createImage()::0f|192
+PImage::0f|193
+image()::0f|194
+imageMode()::0f|195
+loadImage()::0f|196
+requestImage()::0f|197
+texture()::0f|198
+textureMode()::0f|199
+textureWrap()::0f|200
+text::0f|201
+map::0f|202

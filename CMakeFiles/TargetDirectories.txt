@@ -1,0 +1,7 @@
+/Users/joaopauloarnoldbarros/Developer/CPP/processing-cpp/CMakeFiles/processing-cpp.dir
+/Users/joaopauloarnoldbarros/Developer/CPP/processing-cpp/CMakeFiles/edit_cache.dir
+/Users/joaopauloarnoldbarros/Developer/CPP/processing-cpp/CMakeFiles/rebuild_cache.dir
+/Users/joaopauloarnoldbarros/Developer/CPP/processing-cpp/CMakeFiles/list_install_components.dir
+/Users/joaopauloarnoldbarros/Developer/CPP/processing-cpp/CMakeFiles/install.dir
+/Users/joaopauloarnoldbarros/Developer/CPP/processing-cpp/CMakeFiles/install/local.dir
+/Users/joaopauloarnoldbarros/Developer/CPP/processing-cpp/CMakeFiles/install/strip.dir
